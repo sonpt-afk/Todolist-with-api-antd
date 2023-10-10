@@ -1,0 +1,14 @@
+GET: lay data tren server ve
+POST: dang nhap, them du lieu
+PUT: sửa data
+DELETE : xóa
+
+axios({
+    url: 'httpsadf',
+    method: 'POST',
+    data: 'abc',
+    header: 
+})
+
+API POST /login username + password => token
+API GET /notes token => data
