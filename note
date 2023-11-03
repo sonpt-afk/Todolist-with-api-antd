@@ -12,3 +12,7 @@ axios({
 
 API POST /login username + password => token
 API GET /notes token => data
+
+hw:
+login = antd + axios
+get data: list + axios
